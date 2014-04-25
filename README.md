@@ -1,4 +1,4 @@
-hotboilerplate
+HotBoilerplate!
 ==============
 
 Build HotApps! using this.
