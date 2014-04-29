@@ -1,0 +1,8 @@
+name = HotBoilerplate!
+description = BoilerPlate information about building an app for HotSauce.
+core = 7.x
+package = HotApps!
+version = 7.x-1.0-alpha1
+project = hot_boilerplate
+dependencies[views] = views 3.0-beta3
+dependencies[ctools] = ctools 1.0-alpha4
